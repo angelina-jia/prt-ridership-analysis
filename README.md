@@ -22,7 +22,7 @@ We hypothesized that better on-time performance would correlate with higher ride
 - Conducted simple linear regression in Excel
 - Scatter plots and regressions (originally generated in R; not included here)
 
-  ## 🔍 Key Findings
+## 🔍 Key Findings
 
 - Initial analysis showed a **negative relationship** between timeliness and ridership, contrary to our hypothesis
 - Further inspection revealed this was largely influenced by **high-volume routes** (61C and 71C)
