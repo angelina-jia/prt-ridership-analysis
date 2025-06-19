@@ -1,6 +1,6 @@
 # Pittsburgh Regional Transit Ridership & Timeliness Analysis
 
-This project explores whether bus timeliness has a measurable impact on ridership for the Pittsburgh Regional Transit (PRT) system. It was created for the Pittsburgh Data Jam in Fall 2023 by Angelina Jia, Yewon Kim, Neha Dutt, and Mahitha Ramachandran.
+This project explores whether bus timeliness has a measurable impact on ridership for the Pittsburgh Regional Transit (PRT) system. It was created for the Pittsburgh Data Jam in Fall 2023.
 
 ## Research Question
 
